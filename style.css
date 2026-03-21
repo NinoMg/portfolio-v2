@@ -134,8 +134,26 @@ section {
     padding: 15px;
   }
 
+  
+
   .btn {
     width: 100%;
     text-align: center;
   }
+}
+
+.headline {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #e2e8f0;
+}
+
+.value ul {
+  list-style: none;
+  padding: 0;
+}
+
+.value li {
+  margin-bottom: 10px;
 }
