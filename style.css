@@ -179,7 +179,7 @@ section {
 
 .card:hover::after {
   opacity: 1;
-
+}
 
 
   .card {
