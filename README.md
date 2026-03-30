@@ -16,4 +16,4 @@ App web para gestionar turnos con backend en Flask.
 - Flask
 
 ## 📩 Contacto
-WhatsApp: https://wa.me/542604693013
+Email: ninomagni75@gmail.com
