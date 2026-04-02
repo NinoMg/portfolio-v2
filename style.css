@@ -308,5 +308,19 @@ footer {
 
 .featured {
   border: 1px solid #0ea5e9;
-  transform: scale(1.01);
+  transform: scale(1.02);
+}
+
+.demo {
+  background: #0ea5e9;
+  color: white;
+  font-weight: bold;
+}
+
+.demo:hover {
+  background: #0284c7;
+}
+
+.project-card {
+  margin-bottom: 30px;
 }
